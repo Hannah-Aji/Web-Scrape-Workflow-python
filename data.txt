@@ -1,0 +1,336 @@
+Name: Adriana Travel
+Address: Address not found
+Phone: +385 51 272088 
+Email: info@adrianatravel.com
+Name: Aerotravel
+Address: Address not found
+Phone: +40 259 406642
+Email: oradea@aerotravel.ro
+Name: Active Tourism
+Address: Address not found
+Phone: +90 216 4440084
+Email: mail@active.com.tr
+Name: Absolute Ireland Travel
+Address: Address not found
+Phone: +353 86 8534014
+Email: info@absoluteireland.ie
+Name: Abramar viajes
+Address: Address not found
+Phone: +34 986447060
+Email: abramar@abramar.com
+Name: Aerotravel
+Address: Address not found
+Phone: +40 256 292960
+Email: timisoara@aerotravel.ro
+Name: Abimoubooking
+Address: Address not found
+Phone: +213 770 965136
+Email: helpdesk@abimoubooking.com
+Name: Aerotravel
+Address: Address not found
+Phone: +40 264 433124
+Email: cluj@aerotravel.ro
+Name: 7° South
+Address: Address not found
+Phone: +248 4292800
+Email: marketing@7south.net
+Name: 88 Destinations DMC
+Address: Address not found
+Phone: +966 554447070
+Email: info@88destinations.com
+Name: Azar Tourism
+Address: Address not found
+Phone: +218 912157526
+Email: info@azartourism.com
+Name: Aamal Travel
+Address: Address not found
+Phone: +974 4040 1000
+Email: sales@aamal-travel.com
+Name: Ayabex
+Address: Address not found
+Phone: +81 3 68860107
+Email: info@ayabex.com
+Name: AVIT
+Address: Address not found
+Phone: +39 0444 545677
+Email: businesstravel@avit.it
+Name: Aviatur
+Address: Address not found
+Phone: +57 1 5876500
+Email: lcc.bog.ca@aviatur.com.co
+Name: ATPI Hamburg
+Address: Address not found
+Phone: +49 40 822 125 300
+Email: firmendienst@atpi.com
+Name: ATI Travel
+Address: Address not found
+Phone: +852 27 243236
+Email: info@atitravel.com.hk
+Name: Atlas Tours
+Address: Address not found
+Phone: +20 2 27028870
+Email: info@atlastoursgroup.com
+Name: Aves Travel
+Address: Address not found
+Phone: +372 66 63866
+Email: aves@avestravel.eu
+Name: ATI Travel Agency
+Address: Address not found
+Phone: +98 51 38431919
+Email: ati.lcc.travelagency@gmail.com
+Name: AT&T Travel
+Address: Address not found
+Phone: +267 3973820
+Email: letang@at-t-travel.com
+Name: Ask2Travel
+Address: Address not found
+Phone: +30 2109483580
+Email: info@ask2travel.com
+Name: Arminas Travel
+Address: Address not found
+Phone: +52 998 8927083
+Email: mexico@arminastravel.com
+Name: Armenia Travel
+Address: Address not found
+Phone: +374 10 563667
+Email: incoming@armeniatravel.am
+Name: Ariana Voyages
+Address: Address not found
+Phone: +216 22 695757
+Email: ariana.voyages@gnet.tn
+Name: Aquavita
+Address: Address not found
+Phone: +380 48 7384488
+Email: lcc@aqua.com.ua
+Name: Anywhere Travel
+Address: Address not found
+Phone: +61 29 6630411
+Email: welcome@anywheretravel.com.au
+Name: Amir
+Address: Address not found
+Phone: +98 21 22181000
+Email: info@amirtravel.ir
+Name: Amsalem Tours & Travel
+Address: Address not found
+Phone: +972 4 6700900
+Email: info@abt-israel.com
+Name: Andrómeda Viajes
+Address: Address not found
+Phone: +34 932 402900
+Email: reservas@viajesandromeda.es
+Name: Amazing Africa DMC
+Address: Address not found
+Phone: +27 79 1378158
+Email: mirjam@amazing-africa.co.za
+Name: Amadeus Travel
+Address: Address not found
+Phone: +373 22 226633
+Email: info@amadeustravel.md
+Name: Alliance Avia
+Address: Address not found
+Phone: +7 812 3090730
+Email: customer_service@alavia.ru
+Name: Alliance Avia
+Address: Address not found
+Phone: +7 495 5174242
+Email: client@alavia.ru
+Name: Alfaris Intl Travels & Tourism
+Address: Address not found
+Phone: +966 12 6644477
+Email: mohy@alfaris.co
+Name: Alabanda
+Address: Address not found
+Phone: +90 312 4405600
+Email: lcc@alabanda.com.tr
+Name: AltaVia Travel
+Address: Address not found
+Phone: +383 44 543543
+Email: info@altaviatravel.com
+Name: Air Exelixi Travel
+Address: Address not found
+Phone: +30 210 / 9601593
+Email: info@airexelixi.travel
+Name: Albtours D DMC
+Address: Address not found
+Phone: +355 42253343
+Email: z.musaraj@vasgroup.net
+Name: AGT
+Address: Address not found
+Phone: +92 21 35650050
+Email: info@agtlcc.com.pk
+Name: af travel
+Address: Address not found
+Phone: +60 3 26879688
+Email: tour@aftravel.com.my
+Name: Aerotravel
+Address: Address not found
+Phone: +40 21 3137485
+Email: bucuresti2@aerotravel.ro
+Name: Arabella Reisen und Touristik
+Address: Address not found
+Phone: +49 89 92900950
+Email: lcc-muenchen.bt@arabellareisen.de
+Name: ATPI Hamburg
+Address: Address not found
+Phone: +49 40 82211 5071
+Email: touristik@atpi.com
+Name: atlantic Reisebüro
+Address: Address not found
+Phone: +49 471 945 920
+Email: bremerhaven@lcctravel.de
+Name: AP Reiseservice
+Address: Address not found
+Phone: +49 30 8978410
+Email: zastrow@lcc-reiseservice.de
+Name: Aerotravel Reise
+Address: Address not found
+Phone: +49 221 948 67 60
+Email: Info@lcc-aerotravel.de
+Name: Air Lounge
+Address: Address not found
+Phone: +49 30 81056145
+Email: office@air-lounge.de
+Name: AGT
+Phone: +92 21 35650050
+Email: info@agtlcc.com.pk
+Name: Active Tourism
+Phone: +90 216 4440084
+Email: mail@active.com.tr
+Name: Adriana Travel
+Phone: +385 51 272088 
+Email: info@adrianatravel.com
+Name: Aerotravel
+Phone: +40 256 292960
+Email: timisoara@aerotravel.ro
+Name: Aerotravel
+Phone: +40 264 433124
+Email: cluj@aerotravel.ro
+Name: Aerotravel
+Phone: +40 259 406642
+Email: oradea@aerotravel.ro
+Name: af travel
+Phone: +60 3 26879688
+Email: tour@aftravel.com.my
+Name: Aerotravel
+Phone: +40 21 3137485
+Email: bucuresti2@aerotravel.ro
+Name: Absolute Ireland Travel
+Phone: +353 86 8534014
+Email: info@absoluteireland.ie
+Name: Abimoubooking
+Phone: +213 770 965136
+Email: helpdesk@abimoubooking.com
+Name: 88 Destinations DMC
+Phone: +966 554447070
+Email: info@88destinations.com
+Name: 7° South
+Phone: +248 4292800
+Email: marketing@7south.net
+Name: Abramar viajes
+Phone: +34 986447060
+Email: abramar@abramar.com
+Name: Aamal Travel
+Phone: +974 4040 1000
+Email: sales@aamal-travel.com
+Name: Azar Tourism
+Phone: +218 912157526
+Email: info@azartourism.com
+Name: AVIT
+Phone: +39 0444 545677
+Email: businesstravel@avit.it
+Name: Ayabex
+Phone: +81 3 68860107
+Email: info@ayabex.com
+Name: Aviatur
+Phone: +57 1 5876500
+Email: lcc.bog.ca@aviatur.com.co
+Name: Aves Travel
+Phone: +372 66 63866
+Email: aves@avestravel.eu
+Name: ATI Travel
+Phone: +852 27 243236
+Email: info@atitravel.com.hk
+Name: Atlas Tours
+Phone: +20 2 27028870
+Email: info@atlastoursgroup.com
+Name: ATI Travel Agency
+Phone: +98 51 38431919
+Email: ati.lcc.travelagency@gmail.com
+Name: AT&T Travel
+Phone: +267 3973820
+Email: letang@at-t-travel.com
+Name: Ask2Travel
+Phone: +30 2109483580
+Email: info@ask2travel.com
+Name: Arminas Travel
+Phone: +52 998 8927083
+Email: mexico@arminastravel.com
+Name: Ariana Voyages
+Phone: +216 22 695757
+Email: ariana.voyages@gnet.tn
+Name: Aquavita
+Phone: +380 48 7384488
+Email: lcc@aqua.com.ua
+Name: Armenia Travel
+Phone: +374 10 563667
+Email: incoming@armeniatravel.am
+Name: Anywhere Travel
+Phone: +61 29 6630411
+Email: welcome@anywheretravel.com.au
+Name: Amsalem Tours & Travel
+Phone: +972 4 6700900
+Email: info@abt-israel.com
+Name: Andrómeda Viajes
+Phone: +34 932 402900
+Email: reservas@viajesandromeda.es
+Name: Amir
+Phone: +98 21 22181000
+Email: info@amirtravel.ir
+Name: Amazing Africa DMC
+Phone: +27 79 1378158
+Email: mirjam@amazing-africa.co.za
+Name: Amadeus Travel
+Phone: +373 22 226633
+Email: info@amadeustravel.md
+Name: Alliance Avia
+Phone: +7 812 3090730
+Email: customer_service@alavia.ru
+Name: AltaVia Travel
+Phone: +383 44 543543
+Email: info@altaviatravel.com
+Name: Alliance Avia
+Phone: +7 495 5174242
+Email: client@alavia.ru
+Name: Alfaris Intl Travels & Tourism
+Phone: +966 12 6644477
+Email: mohy@alfaris.co
+Name: Air Exelixi Travel
+Phone: +30 210 / 9601593
+Email: info@airexelixi.travel
+Name: Alabanda
+Phone: +90 312 4405600
+Email: lcc@alabanda.com.tr
+Name: Albtours D DMC
+Phone: +355 42253343
+Email: z.musaraj@vasgroup.net
+Name: ATPI Hamburg
+Phone: +49 40 82211 5071
+Email: touristik@atpi.com
+Name: ATPI Hamburg
+Phone: +49 40 822 125 300
+Email: firmendienst@atpi.com
+Name: atlantic Reisebüro
+Phone: +49 471 945 920
+Email: bremerhaven@lcctravel.de
+Name: Arabella Reisen und Touristik
+Phone: +49 89 92900950
+Email: lcc-muenchen.bt@arabellareisen.de
+Name: AP Reiseservice
+Phone: +49 30 8978410
+Email: zastrow@lcc-reiseservice.de
+Name: Aerotravel Reise
+Phone: +49 221 948 67 60
+Email: Info@lcc-aerotravel.de
+Name: Air Lounge
+Phone: +49 30 81056145
+Email: office@air-lounge.de

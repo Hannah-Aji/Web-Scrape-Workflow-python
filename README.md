@@ -40,6 +40,14 @@ def start_requests(self):
     start_urls = [base_url.format(letter) for letter in letters]
     for url in start_urls:
         yield scrapy.Request(url, callback=self.parse)
+
+
+def parse_agency(self, response, name):
+        # Extract the travel agency details from the individual page
+        
+        # Extracting address
+        address_lines = response.css('div.address__street::text').getall()
+        address = ' '.join([line.strip().replace('\n', ' ') for line in address_lines if line.strip()])
 ```
 
 ## Future Improvements
